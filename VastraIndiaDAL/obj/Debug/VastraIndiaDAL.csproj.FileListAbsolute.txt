@@ -1,0 +1,6 @@
+C:\VastraIndia\VastraAPI\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.dll
+C:\VastraIndia\VastraAPI\VastraIndiaDAL\bin\Debug\VastraIndiaDAL.pdb
+C:\VastraIndia\VastraAPI\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.AssemblyReference.cache
+C:\VastraIndia\VastraAPI\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.csproj.CoreCompileInputs.cache
+C:\VastraIndia\VastraAPI\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.dll
+C:\VastraIndia\VastraAPI\VastraIndiaDAL\obj\Debug\VastraIndiaDAL.pdb
